@@ -1,6 +1,6 @@
 function hello_world
     fprintf('\n=============')
-    fprintf('\nOlá\n')    
+    fprintf('\nAgora é que é!!! Olá\n')
     fprintf('\nHello, World!\n')
     fprintf('=============\n')
 end
